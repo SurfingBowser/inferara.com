@@ -15,7 +15,7 @@ main:
   #   name: "About"
   #   url: "/about/"
   #   weight: 4
-  # - identifier: contact
-  #   name: "Contact Us"
-  #   url: "/contact/"
-  #   weight: 5
+   - identifier: contact
+     name: "Contact Us"
+     url: "/contact/"
+     weight: 5
